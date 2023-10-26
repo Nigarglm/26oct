@@ -1,0 +1,17 @@
+C:\Users\Work\source\repos\26 oct_task\obj\Debug\net6.0\26 oct_task.csproj.AssemblyReference.cache
+C:\Users\Work\source\repos\26 oct_task\obj\Debug\net6.0\26 oct_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work\source\repos\26 oct_task\obj\Debug\net6.0\26 oct_task.AssemblyInfoInputs.cache
+C:\Users\Work\source\repos\26 oct_task\obj\Debug\net6.0\26 oct_task.AssemblyInfo.cs
+C:\Users\Work\source\repos\26 oct_task\obj\Debug\net6.0\26 oct_task.csproj.CoreCompileInputs.cache
+C:\Users\Work\source\repos\26 oct_task\bin\Debug\net6.0\26 oct_task.exe
+C:\Users\Work\source\repos\26 oct_task\bin\Debug\net6.0\26 oct_task.deps.json
+C:\Users\Work\source\repos\26 oct_task\bin\Debug\net6.0\26 oct_task.runtimeconfig.json
+C:\Users\Work\source\repos\26 oct_task\bin\Debug\net6.0\26 oct_task.dll
+C:\Users\Work\source\repos\26 oct_task\bin\Debug\net6.0\26 oct_task.pdb
+C:\Users\Work\source\repos\26 oct_task\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Work\source\repos\26 oct_task\obj\Debug\net6.0\26 oct_task.csproj.CopyComplete
+C:\Users\Work\source\repos\26 oct_task\obj\Debug\net6.0\26 oct_task.dll
+C:\Users\Work\source\repos\26 oct_task\obj\Debug\net6.0\refint\26 oct_task.dll
+C:\Users\Work\source\repos\26 oct_task\obj\Debug\net6.0\26 oct_task.pdb
+C:\Users\Work\source\repos\26 oct_task\obj\Debug\net6.0\26 oct_task.genruntimeconfig.cache
+C:\Users\Work\source\repos\26 oct_task\obj\Debug\net6.0\ref\26 oct_task.dll
